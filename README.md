@@ -27,8 +27,3 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ---
 
-## Installation (for Local Development)
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Aryan457dwivedi/my-portfolio.git
